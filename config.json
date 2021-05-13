@@ -1,0 +1,7 @@
+{
+    "MEM": 20,
+    "DUMP_FILE": "./result/dump.py",
+    "COMPILE_FILE": "./result/compiled.py",
+    "LOG_FILE": "./result/logs.txt",
+    "DEBUG": true
+}
